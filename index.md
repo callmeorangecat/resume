@@ -33,16 +33,19 @@ Taiyuan, Shanxi, China
 
 ### __ENJOYOR Company Limited, Hangzhou, China__  `2017.1 - 2018.4`
 _Java Web Programer_<br>
-__Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+__Shanghai Judiciary Data Platform__ is a platform that provides Restful API Services to the government and citizens and also visualizes an image manifesting how data flow through bureaus respectively.<br>
+Skilled: [SpringBoot 1.5](), [Mybatis 3](), [Oracle](), [Swagger]()
 
 ### __Briup Technology, Inc., Suzhou, China__ `2016.9 - 2017.1`
 _Software Engineering Intern_<br>
-Worked with manager Xu on __Bill System of China Telecom Crop.__ project. Assisted the project manager to handle with the various technical affairs.
+Worked with manager Xu on __Bill System of China Telecom Crop.__ project. Assisted this project manager to handle with the various technical affairs as well.<br>
+Skilled: [XML](), [Mysql](), [Tomcat](), [Log4J]()
 
 ### __Qingze Xinyu Smart Campus, TYUT, China__ `2015.10 - 2016.6`
 _Core Member of Club_<br>
 Worked on Unity3D application that visualizes the TYUT campus in AR environment.<br>
-Developed a tower defense mobile game on Android platform, named ‘Hello Hell’, by myself
+Developed a tower defense mobile game on Android platform, named ‘Hello Hell’, by myself.<br>
+Skilled: [Unity3D](), [Autodesk Maya](), [PS]()
 
 ## Patents & Certificate
 
@@ -56,6 +59,5 @@ Developed a tower defense mobile game on Android platform, named ‘Hello Hell�
 [[repo](https://github.com/penrose/penrose)]
 
 ### [__National Professional and Technician Qualification Test, in China__](http://scholar.dickinson.edu/student_honors/221/)
-Certified as Intermediate Software Designer, No. 1750500462. `02/2018`<br>
-[[PDF](assets/nptq.pdf)]
+Certified as Intermediate Software Designer, No. 1750500462. `02/2018` [[PDF](assets/nptq.pdf)]
 
