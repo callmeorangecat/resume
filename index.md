@@ -21,8 +21,9 @@ Los Angeles, CA
 - M.S. in Applied Data Science [Current]
 - Main Courses: 
 > [Machine Learning](), [Data Mining](), [Applied Natural Language Processing]() <br>
-> [Knowledge Graphs](), [Geospatial Information Management]() <br>
+[Knowledge Graphs](), [Geospatial Information Management]() <br>
 
+-----------------------------------------------------------
 - Pre-Master Program [Finished] [(2019.1 - 2019.4)]()
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
 
