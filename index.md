@@ -26,6 +26,8 @@ Los Angeles, CA
 <br>
 - Pre-Master Program [Finished] [(2019.1 - 2019.4)]()
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
+- Main Courses:
+> [Writing and Grammer](), [Reading and Vocabulary](), [Communication Skills]() <br>
 
 ### __Taiyuan University of Technology (TYUT)__ `2013.9 - 2017.6`
 ```
