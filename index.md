@@ -20,8 +20,9 @@ Los Angeles, CA
 ```
 - M.S. in Applied Data Science [Current]
 - Main Courses: 
-> CCCCC
-> DDDDDDD
+> [Machine Learning](), [Data Mining](), [Applied Natural Language Processing]() <br>
+> [Knowledge Graphs](), [Geospatial Information Management]() <br>
+
 - Pre-Master Program [Finished] [(2019.1 - 2019.4)]()
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
 
@@ -32,8 +33,7 @@ Taiyuan, Shanxi, China
 - B.S. in Software Engineering [Finished]
 - GPA: 3.56
 - Main Courses: 
-- > AAAA
-- > bbbb
+> [Software Engineering](), [WebSite Development](), [Foundations of Database]() <br>
 
 ## Experience
 
