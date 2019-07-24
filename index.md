@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Resume
+title: Resume_BoYang
 email: 
     url: mailto:byang971@usc.edu
     text: byang971@usc.edu
