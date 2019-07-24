@@ -19,7 +19,11 @@ homepage:
 Los Angeles, CA
 ```
 - M.S. in Applied Data Science [Current]
-- Pre-Master Program [Finished] (2019.1-2019.4)
+- Main Courses: 
+> CCCCC
+> DDDDDDD
+- Pre-Master Program [Finished] [(2019.1 - 2019.4)]()
+- GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
 
 ### __Taiyuan University of Technology (TYUT)__ `2013.9 - 2017.6`
 ```
@@ -27,6 +31,9 @@ Taiyuan, Shanxi, China
 ```
 - B.S. in Software Engineering [Finished]
 - GPA: 3.56
+- Main Courses: 
+- > AAAA
+- > bbbb
 
 ## Experience
 
