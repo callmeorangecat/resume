@@ -8,7 +8,7 @@ homepage:
     url: http://18.221.181.167:8090
     text: http://18.221.181.167:8090
 ---
-# Bo __Yang__
+# Bo __Yang__ <font size="9">(Aaron Yang)</font>
 
 {% include cv-contact.html %}
 
