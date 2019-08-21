@@ -13,7 +13,7 @@ homepage:
 {% include cv-contact.html %}
 
 ## Objective
-#### __Applying for a *Data Science Internship* position__
+#### __Applying for a <u>Data Science Internship</u> position__
 
 ## Education
 
