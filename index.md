@@ -66,6 +66,6 @@ Skilled: [Unity3D](), [C#](), [Autodesk Maya](), [PS]()
 - Evaluation of City Congestion Index Based on Monitoring Data, Patent [No. CN105869405B](), `03/2018`<br>
 - Screening Fake License plate Based on Monitoring Vehicle Flow Probability, Patent [No. CN1057119489B](), `01/2018` <br>
 
-### [__National Professional and Technician Qualification Test, in China__](http://scholar.dickinson.edu/student_honors/221/)
+### [__National Professional and Technician Qualification Test, in China__]()
 Certified as Intermediate Software Designer, No. 1750500462. `02/2018` [[PDF](assets/nptq.pdf)]
 
