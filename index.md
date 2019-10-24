@@ -3,10 +3,10 @@ layout: cv
 title: Resume
 email: 
     url: mailto:byang971@usc.edu
-    text: byang971@usc.edu
+    text: EmailToMe
 homepage:
-    url: http://18.221.181.167:8090
-    text: http://18.221.181.167:8090
+    url: https://aaronyang2333.github.io/resume/
+    text: GitHub
 ---
 # Bo __Yang__ <font size="9">(Aaron Yang)</font>
 
@@ -17,17 +17,19 @@ homepage:
 
 ## Education
 
-### __University of Southern California (USC)__ `2019.1 - Current`
+### __University of Southern California (USC)__ `2019.8 - Current`
 ```
 Los Angeles, CA
 ```
-- M.S. in Applied Data Science [Current]
+- <u>M.S. in Applied Data Science</u> [Current]
 - GPA: 
 - Main Courses: 
-> [Machine Learning](), [Data Mining](), [Applied Natural Language Processing]() <br>
+> [Machine Learning](), [Data Management]()<br>
+- Feature Courses: 
+> [Data Mining](), [Applied Natural Language Processing]() <br>
 > [Knowledge Graphs](), [Geospatial Information Management]() <br>
 <br>
-- Pre-Master Program [Finished] [(2019.1 - 2019.4)]()
+- <u>Pre-Master Program [Finished]</u> [(2019.1 - 2019.4)]()
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
 - Main Courses:
 > [Writing and Grammer](), [Reading and Vocabulary](), [Communication Skills]() <br>
@@ -36,7 +38,7 @@ Los Angeles, CA
 ```
 Taiyuan, Shanxi, China
 ```
-- B.S. in Software Engineering [Finished]
+- <u>B.S. in Software Engineering</u> [Finished]
 - GPA: 3.56
 - Main Courses: 
 > [Software Engineering](), [Web Development](), [Foundations of Database]() <br>
