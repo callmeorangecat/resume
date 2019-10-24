@@ -4,7 +4,7 @@ title: Resume
 email: 
     url: mailto:byang971@usc.edu
     text: byang971@usc.edu
-homepage:
+github:
     url: https://github.com/AaronYang2333
     text: GitHub
 ---
