@@ -3,9 +3,9 @@ layout: cv
 title: Resume
 email: 
     url: mailto:byang971@usc.edu
-    text: EmailToMe
+    text: byang971@usc.edu
 homepage:
-    url: https://aaronyang2333.github.io/resume/
+    url: https://github.com/AaronYang2333
     text: GitHub
 ---
 # Bo __Yang__ <font size="9">(Aaron Yang)</font>
@@ -29,7 +29,7 @@ Los Angeles, CA
 > [Data Mining](), [Applied Natural Language Processing]() <br>
 > [Knowledge Graphs](), [Geospatial Information Management]() <br>
 <br>
-- <u>Pre-Master Program [Finished]</u> [(2019.1 - 2019.4)]()
+- <u>Pre-Master Program</u>  [Finished][(2019.1 - 2019.4)]()
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
 - Main Courses:
 > [Writing and Grammer](), [Reading and Vocabulary](), [Communication Skills]() <br>
