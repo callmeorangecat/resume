@@ -47,8 +47,8 @@ Taiyuan, Shanxi, China
 
 ### __ENJOYOR Company Limited, Hangzhou, China__  `2017.1 - 2018.4`
 _Java Web Programer_<br>
-__Shanghai Judiciary Data Platform__ is a platform that provides Restful API Services to the government and citizens, <br>and also visualizes an image which manifesting how data flow through bureaus respectively.<br>
-Skilled: [SpringBoot 1.5](), [Mybatis 3](), [Oracle](), [Swagger]()
+As a web backend Developer, I crated highly reliable interfaces for the __Shanghai Judiciary Data Platform__ Project, accelerating the whole implementation process. Benefited from my contribution, Shanghai citizens are able to get access to some government and judiciary department data in a secure and efficient way. And also I participated in some part of the __Hangzhou Traffic Inspection Spot Surveillance System__ project, keep track of the speed of traffic flow and optimize the setting of the traffic light. .<br>
+Skilled: [SpringBoot 1.5](), [Hadoop 2](),[Mybatis 3](), [Oracle](), [Swagger]()
 
 ### __Briup Technology, Inc., Suzhou, China__ `2016.9 - 2017.1`
 _Software Engineering Intern_<br>
@@ -57,9 +57,9 @@ Skilled: [JAVA](), [XML](), [Mysql](), [Tomcat](), [Log4J]()
 
 ### __Qingze Xinyu Smart Campus Club, TYUT, China__ `2015.10 - 2016.6`
 _Top Staff of Club_<br>
-Worked on Unity3D application that visualizes the TYUT campus in AR environment.<br>
-Developed a tower defense mobile game on Android platform, named ‘__Hello Hell__’, by myself.<br>
-Skilled: [Unity3D](), [C#](), [Autodesk Maya](), [PS]()
+Created an Unity3D application that visualizes the TYUT campus in the AR environment.<br>
+Also the passion for the video game drives me to go further, I developed a tower defense mobile game on Android platform, named ‘__Hello Hell__’, by myself, and sold it to a tech company before I graduate from university.<br>
+Skilled: [Unity3D](), [C#](), [Autodesk Maya 2013](), [PS]()
 
 ## Patents & Certificate
 
