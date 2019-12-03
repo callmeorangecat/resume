@@ -47,7 +47,7 @@ Taiyuan, Shanxi, China
 
 ### __ENJOYOR Company Limited, Hangzhou, China__  `2017.1 - 2018.4`
 _Java Web Programer_<br>
-As a web backend Developer, I crated highly reliable interfaces for the __Shanghai Judiciary Data Platform__ Project, accelerating the whole implementation process. Benefited from my contribution, Shanghai citizens are able to get access to some government and judiciary department data in a secure and efficient way. And also I participated in some part of the __Hangzhou Traffic Inspection Spot Surveillance System__ project, keep track of the speed of traffic flow and optimize the setting of the traffic light. .<br>
+As a web backend Developer, I crated highly reliable interfaces for the __Shanghai Judiciary Data Platform__ Project, accelerating the whole implementation process. <br/>Benefited from my contribution, Shanghai citizens are able to get access to some government and judiciary department data in a secure and efficient way. And also I participated in some part of the __Hangzhou Traffic Inspection Spot Surveillance System__ project, keep track of the speed of traffic flow and optimize the setting of the traffic light. <br>
 Skilled: [SpringBoot 1.5](), [Hadoop 2](),[Mybatis 3](), [Oracle](), [Swagger]()
 
 ### __Briup Technology, Inc., Suzhou, China__ `2016.9 - 2017.1`
