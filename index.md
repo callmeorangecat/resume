@@ -23,10 +23,10 @@ Los Angeles, CA
 ```
 - <u>M.S. in Applied Data Science</u> [Current]
 - GPA: 
-- Main Courses: 
-> [Machine Learning](), [Data Management]()<br>
+- Passed Courses: 
+> [Machine Learning](https://aaronyang2333.github.io/INF_552/), [Data Management](https://aaronyang2333.github.io/INF_551/)<br>
 - Feature Courses: 
-> [Data Mining](), [Applied Natural Language Processing]() <br>
+> [Data Mining](), [Applied Natural Language Processing]()
 > [Knowledge Graphs](), [Geospatial Information Management]() <br>
 <br>
 - <u>Pre-Master Program</u>  [Finished][(2019.1 - 2019.4)]()
