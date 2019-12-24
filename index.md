@@ -12,10 +12,10 @@ github:
 
 {% include cv-contact.html %}
 
-## Objective
+## <span>&#127919;</span>Objective
 #### __Applying for a <u>Data Science Internship</u> position__
 
-## :mortar_board: Education
+## <span>&#127891;</span>Education 
 
 ### __University of Southern California (USC)__ `2019.8 - Current`
 ```
@@ -43,7 +43,7 @@ Taiyuan, Shanxi, China
 - Main Courses: 
 > [Software Engineering](), [Web Development](), [Foundations of Database]() <br>
 
-## Experience
+## <span>&#128084;</span>Experience
 
 ### __ENJOYOR Company Limited, Hangzhou, China__  `2017.1 - 2018.4`
 _Java Web Programer_<br>
@@ -61,7 +61,7 @@ Created an Unity3D application that visualizes the TYUT campus in the AR environ
 Also the passion for the video game drives me to go further, I developed a tower defense mobile game on Android platform, named ‘__Hello Hell__’, by myself, and sold it to a tech company before I graduate from university.<br>
 Skilled: [Unity3D](), [C#](), [Autodesk Maya 2013](), [PS]()
 
-## Patents & Certificate
+## <span>&#128240;</span>Patents & Certificate
 
 ### [__ENJOYOR Company Limited, as Participant__]()
 - Desensitization System for Data Sharing, Patent [No. CN107480549A](), `12/2017`<br>
