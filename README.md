@@ -33,20 +33,20 @@
 _Java Web Programer_<br>
 
 As a web backend Developer, I crated highly reliable interfaces for the __Shanghai Judiciary Data Platform__ Project, accelerating the whole implementation process. <br/>Benefited from my contribution, Shanghai citizens are able to get access to some government and judiciary department data in a secure and efficient way. And also I participated in some part of the __Hangzhou Traffic Inspection Spot Surveillance System__ project, keep track of the speed of traffic flow and optimize the setting of the traffic light. <br>
-Skilled: SpringBoot 1.5, Hadoop 2, Mybatis 3, Oracle, <span><img src = "assets/icons/swagger.svg" height="20" width="20"> Swagger</span
+Skilled: SpringBoot 1.5, Hadoop 2, Mybatis 3, Oracle, <span><img src = "assets/icons/swagger.svg" height="20" width="20"> Swagger</span>
 
 ### __Briup Technology, Inc., Suzhou, China__ `2016.9 - 2017.1`
 _Software Engineering Intern_<br>
 
 Worked with manager Xu on __Bill System of China Telecom Crop.__ project. Assisted this project manager to handle various technical affairs as well.<br>
-Skilled: <span><img src = "assets/icons/java.svg" height="20" width="25"> JAVA</span>, XML, Mysql, Tomcat, Log4J
+Skilled: <span><img src="https://img.icons8.com/color/25/000000/java-coffee-cup-logo.png"> JAVA</span>, <span><img src="https://img.icons8.com/color/25/000000/placeholder-thumbnail-xml.png">XML</span>, <span><img src="https://img.icons8.com/ios-filled/25/000000/mysql-logo.png">Mysql</span>, <span><img src="https://img.icons8.com/color/25/000000/tomcat.png">Tomcat</span>, Log4J
 
 ### __Qingze Xinyu Smart Campus Club, TYUT, China__ `2015.10 - 2016.6`
 _Top Staff of Club_<br>
 
 Created an Unity3D application that visualizes the TYUT campus in the AR environment.<br>
 Also the passion for the video game drives me to go further, I developed a tower defense mobile game on Android platform, named ‘__Hello Hell__’, by myself, and sold it to a tech company before I graduate from university.<br>
-Skilled: Unity3D, C#, Autodesk Maya 2019, PhotoShop
+Skilled: <span><img src="https://img.icons8.com/ios-filled/25/000000/unity.png">Unity3D</span>, <span><img src="https://img.icons8.com/color/25/000000/c-sharp-logo.png">C#</span>, <span><img src="https://img.icons8.com/color/25/000000/autodesk-maya.png">Autodesk Maya</span>, <span><img src="https://img.icons8.com/color/25/000000/adobe-photoshop.png">PhotoShop</span>
 
 ## <span>&#128240;</span>Patents & Certificate
 
