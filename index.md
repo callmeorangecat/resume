@@ -8,14 +8,14 @@ github:
     url: https://github.com/AaronYang2333
     text: GitHub
 ---
-# Bo __Yang__ <font size="9">(Aaron Yang)</font>
+# Bo __Yang__ <font size="9">(Aaron)</font>
 
 {% include cv-contact.html %}
 
 ## Objective
 #### __Applying for a <u>Data Science Internship</u> position__
 
-## Education
+## :mortar_board: Education
 
 ### __University of Southern California (USC)__ `2019.8 - Current`
 ```
