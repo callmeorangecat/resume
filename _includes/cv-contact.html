@@ -1,22 +1,22 @@
 <div id="contact-info">
 
     {% if page.homepage %}
-    <i class="fi-home fa-2x style3" style="margin-left:1em"></i>
+    <i style="font-size:50px; margin-left:1em">&#127759;</i>
     <a href="{{ page.homepage.url }}" style="margin-left:0.5em"> {{ page.homepage.text }}</a>
     {% endif %}
 
     {% if page.github %}
-    <i class="fi-social-github fa-2x style3" style="margin-left:1em"></i>
+    <i><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="50" width="50" ></i>
     <a href="{{ page.github.url }}" style="margin-left:0.5em"> {{ page.github.text }}</a>
     {% endif %}
 
     {% if page.email %}
-    <i class="fi-mail fa-2x style3" style="margin-left:1em"></i>
+    <i style="font-size:50px; margin-left:1em">&#128231;</i>
     <a href="{{ page.email.url }}" style="margin-left:0.5em">{{ page.email.text }}</a>
     {% endif %}
 
     {% if page.phone %}
-    <i class="fi-telephone fa-2x" style="margin-left:1em"></i>
+    <i style="font-size:50px; margin-left:1em">&#128222;</i>
     {{ page.phone }}
     {% endif %}
 
