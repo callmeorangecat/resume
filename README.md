@@ -15,6 +15,7 @@
     - [Data Mining], [Applied Natural Language Processing]
     - [Analysis of Algorithms], [Applied Machine Learning For Games] <br>
 <br>
+
 - <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
 - Main Courses:
