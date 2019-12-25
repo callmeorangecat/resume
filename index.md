@@ -35,7 +35,7 @@ github:
 ### __Taiyuan University of Technology (TYUT), Taiyuan, China__ `2013.9 - 2017.6`
 
 - <u>B.S. in Software Engineering</u> [Finished]
-- GPA: 3.56
+- GPA: 3.56 [[PDF](assets/typt.pdf)]
 - Main Courses: 
     - [Software Engineering], [Web Development], [Foundations of Database] <br>
 
