@@ -13,7 +13,7 @@
     - [Machine Learning](https://aaronyang2333.github.io/INF_552/), [Data Management](https://aaronyang2333.github.io/INF_551/)<br>
 - Feature Courses: 
     - [Data Mining], [Applied Natural Language Processing]
-    - [Analysis of Algorithms], [Applied Machine Learning For Games] <br>
+    - [Analysis of Algorithms](https://aaronyang2333.github.io/CSCI_570/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/CSCI_599/) <br>
 <br>
 
 - <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
@@ -30,7 +30,7 @@
 
 ## <span>&#128084;</span>Experience
 
-### __ENJOYOR Company Limited, Hangzhou, China__  `2017.1 - 2018.4`
+### [__ENJOYOR Company Limited, Hangzhou, China__]()  `2017.1 - 2018.4`
 _Java Web Programer_<br>
 
 As a web application backend engineer, I built highly reliable interfaces for __Shanghai Judiciary Data Platform__ Project, accelerating the whole implementation process by 20%. <br/>Benefited from my contribution to that platform, Shanghai citizens are able to get access to some government and judiciary department dataset in a secure and efficient way. And also I participated in some part of the __Hangzhou Traffic Inspection Spot Surveillance System__ project, that system keeps track of the speed of traffic flow in downtwon area and optimize the setting of the traffic lights. <br>
@@ -42,7 +42,7 @@ Skilled:
 <span><img src = "assets/icons/swagger.png" height="12" width="12"> Swagger</span>
 
 
-### __Briup Technology, Inc., Suzhou, China__ `2016.9 - 2017.1`
+### [__Briup Technology, Inc., Suzhou, China__]() `2016.9 - 2017.1`
 _Software Engineering Intern_<br>
 
 Assisted engineer Xu build __Bill System of China Telecom Crop.__ project for CETxcel. And also handled various technical affairs as well, such as organize requirement documents and write reports.<br>
@@ -54,7 +54,7 @@ Skilled:
 <span><img src = "assets/icons/log4j.png" height="12" width="12"> Log4J</span>
 
 
-### __Qingze Xinyu Smart Campus Club, TYUT, China__ `2015.10 - 2016.6`
+### [__Qingze Xinyu Smart Campus Club, TYUT, China__]() `2015.10 - 2016.6`
 _Top Staff of Club_<br>
 
 Built an Unity3D application which could visualize the TYUT campus in the AR environment.<br>

@@ -6,7 +6,7 @@ email:
     text: byang971@usc.edu
 github:
     url: https://github.com/AaronYang2333
-    text: GitHub
+    text: https://github.com/AaronYang2333
 ---
 # Bo __Yang__ <font size="9">(Aaron)</font>
 
@@ -25,7 +25,7 @@ github:
     - [Machine Learning](https://aaronyang2333.github.io/INF_552/), [Data Management](https://aaronyang2333.github.io/INF_551/)<br>
 - Feature Courses: 
     - [Data Mining], [Applied Natural Language Processing]
-    - [Analysis of Algorithms], [Applied Machine Learning For Games] <br>
+    - [Analysis of Algorithms](https://aaronyang2333.github.io/CSCI_570/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/CSCI_599/) <br>
 <br>
 - <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
