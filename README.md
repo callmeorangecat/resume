@@ -26,7 +26,7 @@
 - <u>B.S. in Software Engineering</u> [Finished]
 - GPA: 3.56 [[PDF](assets/typt.pdf)]
 - Main Courses: 
-    - [Software Engineering], [Web Development], [Foundations of Database] <br>
+    - [Software Engineering], [WebApp Development], [Foundations of Database] <br>
 
 ## <span>&#128084;</span>Experience
 
