@@ -33,28 +33,37 @@
 ### __ENJOYOR Company Limited, Hangzhou, China__  `2017.1 - 2018.4`
 _Java Web Programer_<br>
 
-As a web backend Developer, I crated highly reliable interfaces for the __Shanghai Judiciary Data Platform__ Project, accelerating the whole implementation process. <br/>Benefited from my contribution, Shanghai citizens are able to get access to some government and judiciary department data in a secure and efficient way. And also I participated in some part of the __Hangzhou Traffic Inspection Spot Surveillance System__ project, keep track of the speed of traffic flow and optimize the setting of the traffic light. <br>
-Skilled: SpringBoot 1.5, 
-<span><img src="https://img.icons8.com/color/14/000000/hadoop-distributed-file-system.png">Hadoop</span>, Mybatis 3, 
-<span><img src="https://img.icons8.com/color/24/000000/oracle-logo.png">Oracle</span>, <span><img src = "assets/icons/swagger.svg" height="20" width="20"> Swagger</span>
+As a web application backend engineer, I built highly reliable interfaces for __Shanghai Judiciary Data Platform__ Project, accelerating the whole implementation process by 20%. <br/>Benefited from my contribution to that platform, Shanghai citizens are able to get access to some government and judiciary department dataset in a secure and efficient way. And also I participated in some part of the __Hangzhou Traffic Inspection Spot Surveillance System__ project, that system keeps track of the speed of traffic flow in downtwon area and optimize the setting of the traffic lights. <br>
+Skilled: 
+<span><img src="assets/icons/springboot.png" height="12" width="14">SpringBoot 1.5</span>, 
+<span><img src="https://img.icons8.com/color/14/000000/hadoop-distributed-file-system.png">Hadoop</span>, 
+<span><img src="assets/icons/mybatis.png" height="12" width="14">Mybatis 3</span>, 
+<span><img src="assets/icons/oracle.png" height="12" width="14">Oracle</span>, 
+<span><img src = "assets/icons/swagger.png" height="12" width="12"> Swagger</span>
 
 
 ### __Briup Technology, Inc., Suzhou, China__ `2016.9 - 2017.1`
 _Software Engineering Intern_<br>
 
-Worked with manager Xu on __Bill System of China Telecom Crop.__ project. Assisted this project manager to handle various technical affairs as well.<br>
+Assisted engineer Xu build __Bill System of China Telecom Crop.__ project for CETxcel. And also handled various technical affairs as well, such as organize requirement documents and write reports.<br>
 Skilled: 
-<span><img src="https://img.icons8.com/color/14/000000/java-coffee-cup-logo.png"> JAVA</span>, <span><img src="https://img.icons8.com/ios/14/000000/placeholder-thumbnail-xml.png"> XML</span>,<span><img src="https://img.icons8.com/ios-filled/25/000000/mysql-logo.png"> Mysql</span>, <span><img src="https://img.icons8.com/color/14/000000/tomcat.png"> Tomcat</span>, Log4J
+<span><img src="https://img.icons8.com/color/14/000000/java-coffee-cup-logo.png"> JAVA</span>, 
+<span><img src="https://img.icons8.com/ios/14/000000/placeholder-thumbnail-xml.png"> XML</span>,
+<span><img src="assets/icons/mysql.png" height="12" width="12"> Mysql</span>, 
+<span><img src="https://img.icons8.com/color/14/000000/tomcat.png"> Tomcat</span>, 
+<span><img src = "assets/icons/log4j.png" height="12" width="12"> Log4J</span>
 
 
 ### __Qingze Xinyu Smart Campus Club, TYUT, China__ `2015.10 - 2016.6`
 _Top Staff of Club_<br>
 
-Created an Unity3D application that visualizes the TYUT campus in the AR environment.<br>
-Also the passion for the video game drives me to go further, I developed a tower defense mobile game on Android platform, named ‘__Hello Hell__’, by myself, and sold it to a tech company before I graduate from university.<br>
+Built an Unity3D application which could visualize the TYUT campus in the AR environment.<br>
+Also the passion for the video game drives me to go further, I developed a tower defense mobile game on Android platform, named ‘__Hello Hell__’, by myself, and had sold it to a tech company before I graduated from my college.<br>
 Skilled: 
-<span><img src="https://img.icons8.com/ios-filled/14/000000/unity.png"> Unity3D</span>, <span><img src="https://img.icons8.com/color/14/000000/c-sharp-logo.png"> C#</span>, 
-<span><img src="https://img.icons8.com/color/14/000000/autodesk-maya.png"> Autodesk Maya</span>,<span><img src="https://img.icons8.com/color/14/000000/adobe-photoshop.png"> PhotoShop</span>
+<span><img src="https://img.icons8.com/ios-filled/14/000000/unity.png"> Unity3D</span>, 
+<span><img src="https://img.icons8.com/color/14/000000/c-sharp-logo.png"> C#</span>, 
+<span><img src="https://img.icons8.com/color/14/000000/autodesk-maya.png"> Autodesk Maya</span>,
+<span><img src="https://img.icons8.com/color/16/000000/adobe-photoshop.png"> PhotoShop</span>
 
 ## <span>&#128240;</span>Patents & Certificate
 
