@@ -3,6 +3,12 @@
 ## <span>&#127919;</span>Objective
 #### __Applying for a <u>Data Science Internship</u> position__
 
+## <span>&#128170;</span>Skills
+#### __1. Able to create Machine/Deep Learning model based on <span><img src="assets/icons/tensorflow.png" height="15" width="14">Scrapy</span>Tensorflow2__
+#### __2. Versed in building Web Applications on <span><img src="assets/icons/springboot.png" height="12" width="14">SpringBoot</span> and Django Framework__
+#### __3. Experienced in designing Web Crawlers by using <span><img src="assets/icons/scrapy.png" height="14" width="14">Scrapy</span>__
+#### 
+
 ## <span>&#127891;</span>Education 
 
 ### __University of Southern California (USC), Los Angeles, USA__ `2019.8 - Current`
