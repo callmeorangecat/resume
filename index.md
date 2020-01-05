@@ -19,7 +19,6 @@ github:
 #### __1. Able to create Machine/Deep Learning model based on <span><img src="assets/icons/tensorflow.png" height="15" width="14"> Tensorflow2</span>__
 #### __2. Versed in building Web Applications on <span><img src="assets/icons/springboot.png" height="12" width="14"> SpringBoot</span> and Django Framework__
 #### __3. Experienced in designing Web Crawlers by using <span><img src="assets/icons/scrapy.png" height="14" width="14"> Scrapy</span>__
-#### 
 
 ## <span>&#127891;</span>Education 
 
