@@ -13,7 +13,7 @@ github:
 {% include cv-contact.html %}
 
 ## <span>&#127919;</span>Objective
-#### __Applying for a <u>Data Science Internship</u> position__
+#### __Applying for a <u>Web Application Developer</u> position__
 
 ## <span>&#128170;</span>Skills
 #### __1. Able to create Machine/Deep Learning model based on <span><img src="assets/icons/tensorflow.png" height="15" width="14"> Tensorflow2</span>__
