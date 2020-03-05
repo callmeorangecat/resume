@@ -21,7 +21,7 @@
     - [Analysis of Algorithms](https://aaronyang2333.github.io/CSCI_570/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/CSCI_599/) <br>
 <br>
 
-- <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
+- <u>Pre-Master Program</u>
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
 - Main Courses:
     - [Writing and Grammer], [Reading and Vocabulary], [Communication Skills] <br>
